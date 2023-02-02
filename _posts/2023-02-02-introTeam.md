@@ -3,7 +3,7 @@ layout: single
 title: 오늘 밥 뭐야? 팀 소개
 toc: true
 ---
-
+## 오늘 밥 뭐야? 팀 소개
 ![image](https://user-images.githubusercontent.com/110464205/216312990-ea18fc77-3886-4200-8e50-ff0264bc3e91.png)
 
 안녕하세요 ! 부경대 세종1, 2관 기숙사생들을 대상으로 식단표 서비스를 제공하고 있는 “오늘 밥 뭐야?” 입니다. 팀원은 LUCAS와 {영어 이름 넣기! 어때 ㅎㅎ} 2명입니다. 
