@@ -1,6 +1,6 @@
 ---
-layout: default
-title:  "오늘 밥 뭐야? 팀 소개"
+layout: single
+title: "오늘 밥 뭐야? 팀 소개"
 ---
 
 ![image](https://user-images.githubusercontent.com/110464205/216312990-ea18fc77-3886-4200-8e50-ff0264bc3e91.png)
